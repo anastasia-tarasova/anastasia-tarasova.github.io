@@ -1,0 +1,19 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "9RUJX3YSDE.uk.co.wondrwall.apple.ios"],
+             "components": [
+               {
+                  "/": "/",
+                  "comment": "Matches domain"
+               }
+               ,{
+                  "/": "*",
+                  "comment": "Matches any path"
+               }
+             ]
+           }
+       ]
+   }
+}
